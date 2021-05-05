@@ -1,0 +1,10 @@
+img {
+    border: 2px solid rgb(158, 145, 194);
+    border-radius: 5px;
+    box-shadow: -3px 3px 5px rgb(120, 98, 150), -7px 7px 5px rgb(223, 207, 243);
+    margin:5% auto 4% 10%;
+    
+    width:25%;
+    height:40%;
+   
+  }
